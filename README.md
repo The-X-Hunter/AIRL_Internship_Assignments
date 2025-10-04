@@ -56,6 +56,7 @@ This repository contains solutions for **Q1 (Vision Transformer on CIFAR-10)** a
 ### Result
 - Due to Google Colab session expiring issue, I had to run it on other system. Other than that there is no issue executing the notebook on Colab.
 - For accuracies noted on each epochs, kindly refer to noted_acc.json
+
 | Model Config | Patch Size | Epochs | Depth | Batch Size | LR   | Embedding Dim | Heads | MLP Dim | Test Accuracy |
 |--------------|------------|--------|-------|------------|------|---------------|-------|---------|---------------|
 | Best Model   | 2×2        | 150    | 6     | 128        | 3e-4 | 256           | 8     | 512     | ~80% |
